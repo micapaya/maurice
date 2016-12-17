@@ -1,0 +1,80 @@
+/* maurice css */
+
+		/* color checker */
+		
+				.grey_bg		{
+								background-color: #262626;
+								}
+			
+				.soft_grey_txt	{
+								 color:#3a3a3a;
+								}
+								
+								
+				.white_txt {
+								color: white;
+								}
+		
+		
+		
+		/* pictures style */
+		
+				.logo {
+						margin-top:4%;
+											}
+				
+				.miniatures {
+								width:120px;
+								height: auto;	
+									}
+		
+		
+		
+		
+		
+		/* fonts */
+		
+		
+		
+		
+		
+		
+		
+		/* align property */
+		
+		
+				.align_center  {
+									text-align: center;
+						   									}
+						   									
+		/* input and button */
+		
+	button {
+				height:20px;
+				font-size:8px;
+				text-align: center;
+				border-radius:10px;
+				border :0px;
+				margin: 1px;
+				background-color: green;
+											}
+				
+				.input_style {
+									height:20px;
+									font-size:8px;
+									text-align: center;
+									border-radius:10px;
+									margin: 1px;
+									}
+		
+		
+		/* style cadres et cases */
+		
+				.bottom_line_block {
+										border-bottom:2px solid #3a3a3a;
+										}
+				
+				
+				.cases_barres  {
+										border-right: 1px solid white;									
+						   									}
