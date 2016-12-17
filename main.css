@@ -49,9 +49,15 @@
 			
 				
 			.date {
-						margin-left:-12px;
-						padding:2px;
-						color: #77d800; 
+						margin-left:-25px;
+						padding:4px;
+						color: white;
+						background-color: #77d800;
+						border-radius:12px;
+						font-size:1.2em;
+						font-family:'Aladin', cursive;
+						width:70px;
+						text-align: center;
 				}		
 		
 		
