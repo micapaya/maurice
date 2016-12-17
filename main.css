@@ -21,12 +21,22 @@
 		
 				.logo {
 						margin-top:4%;
+						padding:-25px;
+						top:-25px;
+						bottom:40px;
 											}
 				
 				.miniatures {
 								width:120px;
 								height: auto;	
 									}
+				
+				.icone {
+						width:20px;
+						height: auto;
+						margin:2px;
+						top:25px;
+						}
 		
 		
 		
@@ -74,7 +84,31 @@
 										border-bottom:2px solid #3a3a3a;
 										}
 				
+				.left_line_block {
+										border-left:1px solid #3a3a3a;
+										margin-top:20px;
+										}
+				
+				.top_line_block {
+										border-top:1px solid #3a3a3a;
+										
+										}
+				
 				
 				.cases_barres  {
 										border-right: 1px solid white;									
 						   									}
+						   									
+						   					/* size bar container */
+						   					
+						   					
+						   			.size_cont_bar {
+						   								height:40px;
+						   									   			}
+						   									   			
+						   			.social_net {
+						   							 background-color: #77d800;
+						   							 padding: -25px;
+						   							 bottom: -10px;
+						   							 border-radius:10px;						
+						   													}
