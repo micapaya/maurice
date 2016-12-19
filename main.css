@@ -1,5 +1,7 @@
 /* maurice css */
 
+	
+
 		/* color checker */
 		
 				.grey_bg		{
@@ -13,24 +15,31 @@
 				.soft_grey_txt	{
 								 color:#3a3a3a;
 								}
+				
+				.soft_grey_bg {
+									background-color: #3a3a3a;
+								}
 								
 								
 				.white_txt {
 								color: white;
 								}
-		
+				
+				.white_BG {
+								background-color: white;
+								}
 		
 		/* pictures style */
 		
 				.logo {
-						margin-top:4%;
-						padding:-25px;
+						margin-top:12px;
+						padding:10px;
 						top:-25px;
 						bottom:40px;
 											}
 				
-				.miniatures {
-								width:120px;
+				.miniature {
+								width:90px;
 								height: auto;	
 									}
 				
@@ -49,8 +58,8 @@
 			
 				
 			.date {
-						margin-left:-25px;
-						padding:4px;
+						padding:8px;
+						margin:12px;
 						color: white;
 						background-color: #77d800;
 						border-radius:12px;
@@ -58,9 +67,26 @@
 						font-family:'Aladin', cursive;
 						width:70px;
 						text-align: center;
-				}		
+						float: right;
+						}	
+	h3 {	
+		font-family: 'Pacifico', cursive;
+		font-size:2.8em;
+		margin-left:-25px;
+		margin-top:-22px;
+		padding:15px;
+		background-color: #77d800;
+		border-radius:12px;
+		width:65%;
+			}	
 		
-		
+			.padding_left {
+								padding-left:12px;
+								}
+			
+			.padding_right {
+								padding-right:25px;
+								}
 		
 		
 		
@@ -96,7 +122,7 @@
 		/* style cadres et cases */
 		
 				.bottom_line_block {
-										border-bottom:2px solid #3a3a3a;
+										border-bottom:1px solid #3a3a3a;
 										}
 				
 				.left_line_block {
@@ -106,7 +132,14 @@
 				
 				.top_line_block {
 										border-top:1px solid #3a3a3a;
+										}
+				
+				.top_line_block-green {
+										border-top:1px solid #77d800;
+										}
 										
+				.right_line_block {
+										border-right:1px solid #3a3a3a;
 										}
 				
 				
@@ -129,6 +162,17 @@
 						   			.social_net {
 						   							 background-color: #77d800;
 						   							 padding: -25px;
-						   							 bottom: -10px;
+						   							 bottom: 10px;
 						   							 border-radius:10px;						
 						   													}
+						   			.top_bar    {
+						   							background-color: white;
+						   							border-bottom:4px solid #77d800;
+						   							border-top:4px solid #77d800;
+						   															}
+						   															
+						   					/* footer */
+						   			
+						   			.footer {
+						   						margin-top: 12px;
+						   						}
